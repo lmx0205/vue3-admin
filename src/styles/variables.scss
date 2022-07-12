@@ -1,0 +1,48 @@
+// 自定义颜色变量，导出给各组件使用
+$full-black:  		  rgba(0, 0, 0, 1);
+$dark-black:  		  rgba(0, 0, 0, 0.87);
+$light-black: 		  rgba(0, 0, 0, 0.54);
+$min-black:   		  rgba(0, 0, 0, 0.065);
+
+$full-white:  		  rgba(255, 255, 255, 1);
+$dark-white:  		  rgba(255, 255, 255, 0.87);
+$light-white: 		  rgba(255, 255, 255, 0.54);
+$min-white:   		  rgba(255, 255, 255, 0.1);
+
+$primary:             #4F76E1;
+$info:                #1890ff;
+$success:             #52c41a;
+$warning:             #faad14;
+$danger:              #ff4d4f;
+
+$light:               #f8f8f8;
+$grey:                #424242;
+$dark:                #2e3e4e;
+$black:				  #2a2b3c;
+$white:				  #ffffff;
+
+$primary-color:       $primary;
+$success-color:		  $success;
+$info-color:	      $info;
+$warning-color:	  	  $warning;
+$danger-color:     	  $danger;
+$error-color:     	  $danger;
+
+$light-color:		  $dark-black;
+$grey-color:		  #999999;
+$dark-color:		  $dark-white;
+$black-color:		  $dark-white;
+
+$bgColor:             $white;   //右侧main页面颜色
+
+//app-header 顶部导航
+$header-bgColor:      $white;      //背景颜色
+$header-textColor:    #606266;       //字体颜色
+$header-height:       60px;
+//app-aider  左侧菜单
+$aside-bgColor:       $white;      //背景颜色
+
+
+
+
+
